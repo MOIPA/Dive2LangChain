@@ -1,0 +1,8 @@
+# GitHub上的，一天200次3.5调用
+# https://github.com/chatanywhere/GPT_API_free?tab=readme-ov-file
+API_SECRET_KEY = "sk-scia8t0NThqBoFbDdzweXuPRmeQrMuQ9XkJaYl29VHyMACFD"
+BASE_URL = "https://api.chatanywhere.tech"
+
+# 收费的 https://devagi.cn/app/account
+API_SECRET_KEY = "sk-SYAZNbJfQ576lFyHM5FOoDeHCQRYy3cdntzYBeGHEzXsN2Ei"
+BASE_URL = "https://api.fe8.cn/v1"
